@@ -4,7 +4,7 @@ import VideoPage from './Component/VideoPage';
 import { Route, Switch } from "react-router-dom";
 
 export const config = {
-  endpoint:`https://f903e1f4-e507-48ca-92e2-c469190b22e8.mock.pstmn.io/v1`
+  endpoint:`https://backend-0juv.onrender.com/v1`
   
 };
 function App() {
